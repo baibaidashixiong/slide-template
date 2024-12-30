@@ -10,14 +10,17 @@
 .reveal .slide-number {
   font-size: 26px;
   border-radius: 5px;
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(255, 0, 0, .3);
 }
 
 .reveal .slides {
-  border: 1.5px #ddd solid;
+  border: 3px #ddd solid;
   border-radius: 7px;
   text-align: left;
   font-weight: 300;
+  background-image: url('bg.png');
+  background-size: 1025px 730px;
+  background-position: center;
 }
 
 .reveal section {
@@ -39,7 +42,7 @@
   border-radius: 3mm;
 }
 .reveal pre code {
-  max-height: none;
+  max-height: 350px;
   border-radius: 3mm;
   padding: 20px;
   line-height: 28px;
@@ -86,9 +89,9 @@
   text-align: center;
 }
 .reveal h2 {
-  font-size: 48px;
-  border-bottom: 2px solid rgb(0, 63, 163);
-  padding-bottom: 20px;
+  font-size: 45px;
+  border-bottom: 2px solid rgb(200, 63, 163);
+  padding-bottom: 25px;
 }
 .reveal h3 { font-size: 1.15em; }
 .reveal h4 { font-size: 1.05em; }
