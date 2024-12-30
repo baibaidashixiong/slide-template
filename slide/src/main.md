@@ -101,6 +101,21 @@ art_quick_generic_jni_trampoline --+--> native code
 ```
 
 <!--v-->
+## &nbsp;&nbsp;&nbsp;&nbsp;完成汇编器
+
+- Compiler Test(Based on GTEST)
+
+<!--v-->
+## &nbsp;&nbsp;&nbsp;&nbsp;完成汇编器
+
+- Linker
+  - Emit - Reverse(nop) - Relocate
+<div style="text-align: center;">
+<br/>
+<img src="linker.png" width="100%" style="margin: 0 auto;">
+</div>
+
+<!--v-->
 
 ## 标题
 
