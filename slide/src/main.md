@@ -272,3 +272,10 @@ class MyClass:
 
 </div>
 </div>
+
+<!--s-->
+<div style="text-align: center;">
+<br/>
+<img src="android_runtime_commit.png" width="62%" style="margin: 0 auto;">
+</div>
+
